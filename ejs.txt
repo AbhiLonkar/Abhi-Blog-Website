@@ -1,0 +1,4 @@
+<%for (i=0;i<postHomeArray.length;i++){%>
+    <%console.log(postHomeArray[i].title)%>
+    <%console.log(postHomeArray[i].content)%>
+<%}%>
